@@ -1,1 +1,2 @@
 ghcr.io/berriai/litellm-database:main-latest --platform=linux/amd64
+ascensionoid/hermes-suite --platform=linux/amd64
