@@ -1,3 +1,3 @@
 # ascensionoid/hermes-suite
 smanx/deepseek-harness:admin-latest
-ghcr.io/berriai/litellm-database:main-latest
+devsnowdon/opencode-docker:full-v2
